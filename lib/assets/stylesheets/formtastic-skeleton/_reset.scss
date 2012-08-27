@@ -1,0 +1,27 @@
+label {
+  display: inline;
+  margin: 0;
+  color: transparent;
+
+  input, textarea, select {
+    display: inline;
+  }
+}
+
+.label {
+  padding: 0;
+  color: transparent;
+  vertical-align: baseline;
+  white-space: normal;
+  text-shadow: none;
+  background-color: transparent;
+
+  &:hover {
+    color: transparent;
+    text-decoration: none;
+  }
+}
+
+legend {
+  border: none;
+}

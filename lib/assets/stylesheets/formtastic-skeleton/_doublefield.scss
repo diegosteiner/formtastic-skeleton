@@ -1,0 +1,63 @@
+/* Bigger than standard 960 (devices and browsers) */
+  @media only screen and (max-width: 959px) {
+      fieldset.doublefield {
+            &>legend  {
+                display: none !important;
+                }
+                }
+}
+
+
+/* Smaller than standard 960 (devices and browsers) */
+  @media only screen and (min-width: 959px) {
+fieldset.doublefield {
+    margin: 0;
+    padding: 0;
+
+  &>legend  {
+      position: relative;
+      display: block;
+      float: left;
+        padding: 0;
+      
+      &>span {
+
+        vertical-align: baseline;
+        white-space: normal;
+        text-shadow: none;
+        background-color: transparent;
+  
+      margin: 0;
+      padding-top: 5px;
+      padding-right: 20px;
+      width: $labelWidth;
+        display: inline-block;
+
+      @include label-common();
+      }
+   }
+        
+        .inline-hints {
+            display: inline;
+            color: #666;
+            margin: 0.5em 0 0 6px;
+        }
+        
+        ol>li.input {
+            border: none;
+            display: inline-block;
+            width: ($inputWidth / 2) !important;
+            margin: 0;
+            margin-right: 8px;
+            
+            &>label.label, .inline-hints {
+                display: none;
+            }
+            
+            &>input, &>textarea, &>select {
+                
+                width: ($inputWidth / 2) - 10 !important;
+            }
+        }
+        }
+}

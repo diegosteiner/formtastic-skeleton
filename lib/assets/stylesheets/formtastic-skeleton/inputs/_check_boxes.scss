@@ -1,0 +1,51 @@
+&.check_boxes {
+  padding: 0;
+
+  fieldset.choices {
+    @include clearfix();
+
+    margin: 0;
+    padding: 0;
+
+    border: none;
+
+    > legend.label {
+      display: block;
+      float: left;
+      margin: 0;
+      padding: 0;
+
+      width: $labelWidth + 20;
+
+      label {
+        position: relative;
+        display: inline-block;
+
+        margin: 0;
+        padding: 4px 20px 4px 0;
+        width: $labelWidth;
+
+        line-height: $baseLineHeight;
+
+        @include label-common();
+      }
+    }
+
+    > ol.choices-group {
+      display: block;
+      margin: 0;
+      padding: 0;
+      margin-left: $labelWidth + 20px;
+
+      > li.choice {
+        padding: 4px 0;
+        line-height: $baseLineHeight;
+
+        > label {
+          @include label-common();
+            font-weight: normal;
+        }
+      }
+    }
+  }
+}

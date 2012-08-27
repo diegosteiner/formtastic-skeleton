@@ -1,0 +1,56 @@
+
+@mixin required-abbr($top-offset) {
+  abbr {
+    position: absolute;
+    right: 9px;
+    top: $top-offset;
+    color: red;
+    border: none;
+  }
+}
+
+@mixin text-input() {
+  width: $inputWidth;
+  display: inline-block;
+  height: $baseLineHeight;
+  padding: 4px;
+  margin-bottom: 0.25 * $baseLineHeight;
+  border: 1px solid $inputBorder;
+  color: #222;
+
+/*  @include border-radius(3px);*/
+
+/*  @include box-shadow(inset 0 1px 1px rgba(0, 0, 0, 0.075));*/
+/*  $transition: border linear .2s, box-shadow linear .2s;*/
+/*  @include transition($transition);*/
+
+  &:focus {
+    border-color: rgba(0, 0, 0,.6);
+    outline: 0;
+    outline: thin dotted \9; /* IE6-9 */
+  }
+}
+
+@mixin label-common($abbr-top-offset: 2px) {
+    
+  text-align: right;
+  color: #333;
+  font-weight: bold;
+
+  @include required-abbr($abbr-top-offset);
+}
+
+@mixin clearfix {
+  *zoom: 1;
+  &:before,
+  &:after {
+    display: table;
+    content: "";
+    // Fixes Opera/contenteditable bug:
+    // http://nicolasgallagher.com/micro-clearfix-hack/#comment-36952
+    line-height: 0;
+  }
+  &:after {
+    clear: both;
+  }
+}

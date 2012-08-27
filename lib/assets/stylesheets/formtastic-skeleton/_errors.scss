@@ -1,0 +1,29 @@
+fieldset.inputs {
+  > ol {
+    > li.input > p.inline-errors {
+      display: block;
+      margin: 0 0 0 ($labelWidth + 20);
+      color: $errorText;
+    }
+
+    > li.error {
+      > label, > fieldset.choices > legend > label, > fieldset.fragments > legend > label {
+        color: $errorText !important;
+      }
+
+      input, select, textarea {
+        color: $errorText !important;
+        border-color: $errorText !important;
+        &:focus {
+        }
+      }
+
+      input:focus:required:invalid,
+      textarea:focus:required:invalid,
+      select:focus:required:invalid {
+        color: $errorText !important;
+        border-color: $errorText !important;
+      }
+    }
+  }
+}
