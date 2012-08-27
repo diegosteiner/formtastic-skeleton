@@ -60,10 +60,8 @@
             }
             
             &>button {
-        
-        
-        position: absolute;
-        left: (($inputWidth / 2) - 10 - $miniButtonDimension - 2px);
+                left: (($inputWidth / 2) - 10 - $miniButtonDimension - 2px);
+            }
         }
     }
 }
