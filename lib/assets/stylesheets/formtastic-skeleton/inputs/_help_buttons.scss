@@ -2,13 +2,12 @@
     position: relative;
     
     button, span.ui-button {
-        $miniButtonDimension: 25px;
         
         height: $miniButtonDimension;
         width: $miniButtonDimension;
         
         position: absolute;
-        left: ($inputWidth - $miniButtonDimension - 2px);
+        left: ($labelWidth + 20px + ($inputWidth) - $miniButtonDimension - 2px);
         bottom: 8px;
         font-size: 9px;
         margin: 0;

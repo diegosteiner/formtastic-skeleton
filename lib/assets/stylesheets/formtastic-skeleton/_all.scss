@@ -6,20 +6,21 @@ $baseFontSize: 1em;
 $baseLineHeight: 1.5em;
 $inputBorder: #BBB;
 $errorText: #EE2222;
+$miniButtonDimension: 25px;
 
 @import "mixins";
 
 .formtastic {
-  @import "reset";
-
-  @import "form";
-  @import "fieldset";
-  @import "actions";
-  @import "labels";
-  @import "hints";
-  @import "errors";
-  @import "inputs";
-  @import "disabled";
-  @import "doublefield";
+    @import "reset";
+    
+    @import "form";
+    @import "fieldset";
+    @import "actions";
+    @import "labels";
+    @import "hints";
+    @import "errors";
+    @import "inputs";
+    @import "disabled";
+    @import "doublefield";
     @import "responsive";
 }
