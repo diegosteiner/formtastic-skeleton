@@ -8,7 +8,7 @@
         width: $miniButtonDimension;
         
         position: absolute;
-        right: 2px;
+        left: ($inputWidth - $miniButtonDimesion - 2px);
         bottom: 8px;
         font-size: 9px;
         margin: 0;
