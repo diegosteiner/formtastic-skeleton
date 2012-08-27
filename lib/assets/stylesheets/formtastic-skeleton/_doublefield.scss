@@ -59,7 +59,7 @@
             }
             
             &>button {
-                left: (($inputWidth / 2) - 10 - $miniButtonDimension - 2px) !important;
+                left: (($inputWidth / 2) - $miniButtonDimension - 2px) !important;
             }
         }
     }
