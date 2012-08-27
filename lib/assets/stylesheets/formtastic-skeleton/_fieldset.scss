@@ -1,7 +1,7 @@
 fieldset.inputs, fieldset.actions {
   @include clearfix();
 
-  margin: $baseLineHeight (1.5 * $baseLineHeight);
+  margin: 0 (1.5 * $baseLineHeight) $baseLineHeight (1.5 * $baseLineHeight);
   padding: 0;
   border: none;
 }
