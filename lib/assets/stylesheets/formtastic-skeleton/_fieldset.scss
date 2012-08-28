@@ -8,13 +8,12 @@ fieldset.inputs, fieldset.actions {
 
 fieldset.inputs {
     padding-top: 0.75 * $baseLineHeight;
-    background-color: light-gray;
     
     > legend {
         display: block;
         width: 100%;
         border: none;
-        border-bottom: 1px solid #eee;
+        border-bottom: 1px solid $textColor;
         
         &>span {
             margin-bottom: 1.5 * $baseLineHeight;
