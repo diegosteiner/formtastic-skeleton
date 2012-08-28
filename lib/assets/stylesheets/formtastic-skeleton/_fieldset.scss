@@ -13,14 +13,15 @@ fieldset.inputs {
     > legend {
         display: block;
         width: 100%;
-        
-        margin-bottom: 1.5 * $baseLineHeight;
-        font-size: 1.5em;
-        font-weight: bold;
-        padding: 0;
-        
         border: none;
         border-bottom: 1px solid #eee;
+        
+        &>span {
+            margin-bottom: 1.5 * $baseLineHeight;
+            font-size: 1.5em;
+            font-weight: bold;
+            padding: 0;
+        }        
     }
 }
 
