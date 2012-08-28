@@ -1,29 +1,31 @@
 fieldset.inputs, fieldset.actions {
-  @include clearfix();
-
-  margin: 0 (1.5 * $baseLineHeight) $baseLineHeight (1.5 * $baseLineHeight);
-  padding: 0;
-  border: none;
+    @include clearfix();
+    
+    margin: 0 (1.5 * $baseLineHeight) $baseLineHeight (1.5 * $baseLineHeight);
+    padding: 0;
+    border: none;
 }
 
 fieldset.inputs {
-  padding-top: 0.75 * $baseLineHeight;
+    padding-top: 0.75 * $baseLineHeight;
     background-color: light-gray;
-
-  > legend {
-    display: block;
-    width: 100%;
-
-    margin-bottom: 1.5 * $baseLineHeight;
-    padding: 0;
-
-    border: none;
-    border-bottom: 1px solid #eee;
-  }
+    
+    > legend {
+        display: block;
+        width: 100%;
+        
+        margin-bottom: 1.5 * $baseLineHeight;
+        font-size: 1.5em
+        font-weight: bold;
+        padding: 0;
+        
+        border: none;
+        border-bottom: 1px solid #eee;
+    }
 }
 
 fieldset.actions {
-  > legend {
-    display: none;
-  }
+    > legend {
+        display: none;
+    }
 }
