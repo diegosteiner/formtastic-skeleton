@@ -25,6 +25,9 @@ fieldset.inputs {
 }
 
 fieldset.actions {
+    padding-left: 1em;
+    padding-right: 1em;
+
     > legend {
         display: none;
     }
