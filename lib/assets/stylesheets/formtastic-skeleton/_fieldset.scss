@@ -6,6 +6,22 @@ fieldset.inputs, fieldset.actions {
     border: none;
 }
 
+fieldset.inputs {
+    padding-top: 0;
+    
+    &>legend {
+        margin-bottom: 5px;
+        
+        &>span {
+            display: block;
+            padding: 5px 20px 5px 0;
+            width: 200px;
+            font-weight: bold;
+            text-align: right;
+        } 
+    }
+}
+
 &> fieldset.inputs {
     padding-top: 0.75 * $baseLineHeight;
     
@@ -14,6 +30,7 @@ fieldset.inputs, fieldset.actions {
         border: none;
         border-bottom: 1px solid #ddd;
         background-color: $actionsBackgroundColor;
+        margin-bottom: 15px;
         
         &>span {
             font-size: 1.5em;
@@ -25,16 +42,3 @@ fieldset.inputs, fieldset.actions {
     }
 }
 
-fieldset.inputs {
-    padding-top: 0;
-    
-    &>legend {
-        &>span {
-            display: block;
-            padding: 5px 20px 5px 0;
-            width: 200px;
-            font-weight: bold;
-            text-align: right;
-        } 
-    }
-}
