@@ -9,7 +9,7 @@ fieldset.inputs, fieldset.actions {
 .formtastic > fieldset.inputs {
     padding-top: 0.75 * $baseLineHeight;
     
-    > legend {
+    &>legend {
         display: block;
         width: 100%;
         border: none;
@@ -28,17 +28,18 @@ fieldset.inputs, fieldset.actions {
 fieldset.inputs {
     padding-top: 0;
     
-    > legend {
+    &>legend {
         display: block;
         width: 200px;
         padding-right: 20px;
         padding-top: 5px;
         border: none;
+        text-align: right;
         
         &>span {
+            display: block;
             font-weight: bold;
             width: 100%;
-            align: right;
         } 
         
     }
