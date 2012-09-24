@@ -20,6 +20,7 @@ fieldset.inputs {
             @import "inputs/select";
             @import "inputs/file";
             @import "inputs/datetime";
+            @import "inputs/content";
             
             /*      .input-mini    { width: 1   * $gridColumnWidth !important; }
             .input-small   { width: 1.5 * $gridColumnWidth !important; }
