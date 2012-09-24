@@ -10,17 +10,17 @@ fieldset.inputs, fieldset.actions {
     padding-top: 0.75 * $baseLineHeight;
     
     &>legend {
-        display: block;
         width: 100%;
         border: none;
-        border-bottom: 1px solid $textColor;
+        border-bottom: 1px solid #ddd;
         background-color: $actionsBackgroundColor;
         
         &>span {
-            margin-bottom: 1.5 * $baseLineHeight;
             font-size: 1.5em;
             font-weight: bold;
             padding: 0;
+            padding: 5px 1em;
+            text-align: left;
         }        
     }
 }
