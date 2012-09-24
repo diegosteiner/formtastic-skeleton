@@ -14,16 +14,18 @@
       float: left;
       margin: 0;
       padding: 0;
+      position: relative;
 
-      width: $labelWidth;
+      width: $labelWidth + 20px;
 
       label {
-        position: relative;
+        position: absolute;
+        right: 0;
         display: inline-block;
 
         margin: 0;
         padding: 4px 20px 4px 0;
-        width: $labelWidth - 20px;
+        width: $labelWidth;
 
         line-height: $baseLineHeight;
 
