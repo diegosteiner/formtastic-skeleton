@@ -29,8 +29,15 @@ fieldset.inputs {
     
     > legend {
         display: block;
-        width: 100%;
+        width: 200px;
         border: none;
-        border-bottom: 1px solid $textColor;
+        
+        &>span {
+            font-weight: bold;
+            align: right;
+            padding-top: 5px;
+            padding-right: 20px;
+        } 
+        
     }
 }
