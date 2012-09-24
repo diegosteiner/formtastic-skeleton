@@ -6,14 +6,14 @@ fieldset.inputs, fieldset.actions {
     border: none;
 }
 
-fieldset.inputs {
-    padding-top: 0.75 * $baseLineHeight;
+.formtastic > fieldset.inputs {
     
     > legend {
         display: block;
         width: 100%;
         border: none;
         border-bottom: 1px solid $textColor;
+        background-color: $actionsBackgroundColor;
         
         &>span {
             margin-bottom: 1.5 * $baseLineHeight;
@@ -24,11 +24,13 @@ fieldset.inputs {
     }
 }
 
-fieldset.actions {
-    padding-left: 1em;
-    padding-right: 1em;
-
+fieldset.inputs {
+    padding-top: 0.75 * $baseLineHeight;
+    
     > legend {
-        display: none;
+        display: block;
+        width: 100%;
+        border: none;
+        border-bottom: 1px solid $textColor;
     }
 }
