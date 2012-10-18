@@ -45,6 +45,10 @@
     ol.choices-group, ol.fragments-group {
         margin-left: 0px !important;
     }
+
+  ol.choices-group {
+
+  }
     
     // and finally the actions have to go left
     .actions ol {
@@ -61,6 +65,12 @@
                 text-align: left !important;
                 padding-left: 0 !important;
             } 
+        }
+
+        &.choices {
+          &>legend > label {
+            position: initial;
+          }
         }
         
         &.inputs {
