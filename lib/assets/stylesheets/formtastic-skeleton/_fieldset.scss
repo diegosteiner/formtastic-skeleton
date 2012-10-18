@@ -27,15 +27,15 @@ fieldset.inputs {
     padding-top: 0.75 * $baseLineHeight;
     
     &>legend {
-        width: 100%;
+        width: auto;
         border: none;
         border-bottom: 1px solid #ddd;
         background-color: $actionsBackgroundColor;
         margin-bottom: 0;
         
-        &>span {
+        span {
             width: 100%;
-            font-size: 1.5em;
+            font-size: 1.25em;
             font-weight: bold;
             margin: 0;
             padding: 0;

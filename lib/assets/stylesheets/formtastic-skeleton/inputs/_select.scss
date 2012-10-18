@@ -1,7 +1,7 @@
 &.select, &.time_zone, &.country {
   select {
     display: inline-block;
-    width: $inputWidth + 9px;
+    width: $inputWidth;
     padding: 4px;
     margin-bottom: 0.25 * $baseLineHeight;
     border: 1px solid $inputBorderColor;
