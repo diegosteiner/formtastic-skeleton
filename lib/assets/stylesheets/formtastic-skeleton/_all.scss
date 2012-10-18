@@ -1,7 +1,7 @@
 $gridColumnWidth: 40px;
 $gridMargin: 10px;
 $gridColumns: 16;
-$labelColumns: $gridColumns/3*1;
+$labelColumns: 5;
 $inputColumns: $gridColumns - $labelColumns;
 $labelWidth: $labelColumns * $gridColumnWidth + ($labelColumns - 1) * $gridMargin !default;
 $inputWidth: $inputColumns * $gridColumnWidth + ($inputColumns - 1) * $gridMargin !default;
