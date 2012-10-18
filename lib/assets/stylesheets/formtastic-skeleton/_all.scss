@@ -1,8 +1,10 @@
-
 $gridColumnWidth: 40px;
+$gridMargin: 10px;
 $gridColumns: 12;
-$labelWidth: $gridColumns/3*1 * $gridColumnWidth !default;
-$inputWidth: $gridColumns/3*2 * $gridColumnWidth !default;
+$labelColumns: $gridColumns/3*1;
+$inputColumns: $gridColumns/3*2;
+$labelWidth: $labelColumns * $gridColumnWidth + ($labelColumns - 1) * $gridMargin - $gridMargin !default;
+$inputWidth: $inputColumns * $gridColumnWidth !default;
 $baseFontSize: 1em;
 $baseLineHeight: 1.5em;
 $inputBorder: #BBB;
@@ -14,16 +16,16 @@ $actionsBackgroundColor: #EEE;
 @import "mixins";
 
 .formtastic {
-    @import "reset";
-    
-    @import "form";
-    @import "fieldset";
-    @import "actions";
-    @import "labels";
-    @import "hints";
-    @import "errors";
-    @import "inputs";
-    @import "disabled";
-    @import "doublefield";
-    @import "responsive";
+  @import "reset";
+
+  @import "form";
+  @import "fieldset";
+  @import "actions";
+  @import "labels";
+  @import "hints";
+  @import "errors";
+  @import "inputs";
+  @import "disabled";
+  @import "doublefield";
+  @import "responsive";
 }

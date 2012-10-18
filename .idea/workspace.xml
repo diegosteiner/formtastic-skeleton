@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7633a606-04bf-4f45-b81d-e5aa5b976fb5" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_all.scss" afterPath="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_all.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_mixins.scss" afterPath="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_mixins.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/inputs/_help_buttons.scss" afterPath="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/inputs/_help_buttons.scss" />
     </list>
     <ignored path="formtastic-skeleton.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -68,19 +66,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_mixins.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_mixins.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_mixins.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="9" selection-start="180" selection-end="191" vertical-scroll-proportion="0.3207547">
+            <state line="12" column="9" selection-start="180" selection-end="191" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_all.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="_all.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_all.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="29" selection-start="131" selection-end="131" vertical-scroll-proportion="0.0">
+            <state line="4" column="32" selection-start="126" selection-end="126" vertical-scroll-proportion="0.14255765">
               <folding />
             </state>
           </provider>
@@ -105,8 +103,8 @@
       <list>
         <option value="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_responsive.scss" />
         <option value="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/inputs/_help_buttons.scss" />
-        <option value="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_all.scss" />
         <option value="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_mixins.scss" />
+        <option value="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_all.scss" />
       </list>
     </option>
   </component>
@@ -406,13 +404,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_all.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="29" selection-start="131" selection-end="131" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/inputs/_help_buttons.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="16" selection-start="205" selection-end="205" vertical-scroll-proportion="0.0">
@@ -422,7 +413,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_mixins.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="9" selection-start="180" selection-end="191" vertical-scroll-proportion="0.3207547">
+        <state line="12" column="9" selection-start="180" selection-end="191" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_all.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="32" selection-start="126" selection-end="126" vertical-scroll-proportion="0.14255765">
           <folding />
         </state>
       </provider>
