@@ -46,20 +46,20 @@
         ol>li.input {
             border: none;
             display: inline-block;
-            width: ($inputWidth / 2) !important;
+            width: ($inputWidth / 2) - $gridMargin !important;
             margin: 0;
-            margin-right: 8px;
+            margin-right: $gridMargin;
             
             &>label.label, .inline-hints {
                 display: none;
             }
             
             &>input, &>textarea, &>select {
-                width: ($inputWidth / 2) - 10 !important;
+                //width: ($inputWidth / 2) - 10 !important;
             }
             
             &>button {
-                left: (($inputWidth / 2) - $miniButtonDimension) !important;
+                //left: (($inputWidth / 2) - $miniButtonDimension) !important;
             }
         }
     }
