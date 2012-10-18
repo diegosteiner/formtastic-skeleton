@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7633a606-04bf-4f45-b81d-e5aa5b976fb5" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_all.scss" afterPath="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_all.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_labels.scss" afterPath="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_labels.scss" />
     </list>
     <ignored path="formtastic-skeleton.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -79,7 +78,7 @@
       <file leaf-file-name="_all.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_all.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="62" selection-start="293" selection-end="293" vertical-scroll-proportion="0.22319475">
+            <state line="2" column="16" selection-start="59" selection-end="59" vertical-scroll-proportion="0.07439825">
               <folding />
             </state>
           </provider>
@@ -438,7 +437,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_all.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="62" selection-start="293" selection-end="293" vertical-scroll-proportion="0.22319475">
+        <state line="2" column="16" selection-start="59" selection-end="59" vertical-scroll-proportion="0.07439825">
           <folding />
         </state>
       </provider>
