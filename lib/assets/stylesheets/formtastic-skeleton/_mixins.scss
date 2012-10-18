@@ -10,12 +10,12 @@
 }
 
 @mixin text-input() {
-  width: $inputWidth;
+  width: $inputWidth - 2* $inputPadding - 2;
   display: inline-block;
   height: $baseLineHeight;
-  padding: 4px;
+  padding: $inputPadding;
   margin-bottom: 0.25 * $baseLineHeight;
-  border: 1px solid $inputBorder;
+  border: 1px solid $inputBorderColor;
   color: $textColor;
 
 /*  @include border-radius(3px);*/

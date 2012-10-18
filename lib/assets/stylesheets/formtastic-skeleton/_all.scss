@@ -8,6 +8,7 @@ $inputWidth: $inputColumns * $gridColumnWidth + ($inputColumns - 1) * $gridMargi
 $baseFontSize: 1em;
 $baseLineHeight: 1.5em;
 $inputBorder: #BBB;
+$inputPadding: 4px;
 $errorText: #EE2222;
 $textColor: #222;
 $miniButtonDimension: 30px;
