@@ -1,7 +1,8 @@
 
-$gridColumnWidth: 100px;
-$labelWidth: 2 * $gridColumnWidth !default;
-$inputWidth: 6 * $gridColumnWidth !default;
+$gridColumnWidth: 40px;
+$gridColumns: 12;
+$labelWidth: $gridColumns/3*1 * $gridColumnWidth !default;
+$inputWidth: $gridColumns/3*2 * $gridColumnWidth !default;
 $baseFontSize: 1em;
 $baseLineHeight: 1.5em;
 $inputBorder: #BBB;

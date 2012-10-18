@@ -10,7 +10,7 @@
 }
 
 @mixin text-input() {
-  width: 98%;
+  width: $inputWidth;
   display: inline-block;
   height: $baseLineHeight;
   padding: 4px;
