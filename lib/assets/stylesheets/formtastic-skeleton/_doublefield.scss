@@ -55,7 +55,7 @@
             }
             
             &>input, &>textarea, &>select {
-                //width: ($inputWidth / 2) - 10 !important;
+                width: ($inputWidth / 2) - 2 * $inputPadding - 2 !important;
             }
             
             &>button {

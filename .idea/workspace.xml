@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7633a606-04bf-4f45-b81d-e5aa5b976fb5" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_doublefield.scss" afterPath="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_doublefield.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/inputs/_help_buttons.scss" afterPath="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/inputs/_help_buttons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_mixins.scss" afterPath="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_mixins.scss" />
     </list>
     <ignored path="formtastic-skeleton.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -52,7 +52,7 @@
       <file leaf-file-name="_mixins.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_mixins.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="1" selection-start="147" selection-end="147" vertical-scroll-proportion="0.0">
+            <state line="12" column="44" selection-start="191" selection-end="215" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -106,7 +106,7 @@
       <file leaf-file-name="_doublefield.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_doublefield.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="62" column="27" selection-start="1699" selection-end="1699" vertical-scroll-proportion="0.90759754">
+            <state line="57" column="40" selection-start="1537" selection-end="1537" vertical-scroll-proportion="0.523614">
               <folding />
             </state>
           </provider>
@@ -125,7 +125,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_mixins.scss" />
         <option value="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_labels.scss" />
         <option value="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_all.scss" />
         <option value="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/inputs/_datetime.scss" />
@@ -133,6 +132,7 @@
         <option value="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_responsive.scss" />
         <option value="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_fieldset.scss" />
         <option value="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/inputs/_help_buttons.scss" />
+        <option value="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_mixins.scss" />
         <option value="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_doublefield.scss" />
       </list>
     </option>
@@ -426,13 +426,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_mixins.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="1" selection-start="147" selection-end="147" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_labels.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="23" selection-start="164" selection-end="164" vertical-scroll-proportion="0.0">
@@ -482,9 +475,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_mixins.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="44" selection-start="191" selection-end="215" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_doublefield.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="27" selection-start="1699" selection-end="1699" vertical-scroll-proportion="0.90759754">
+        <state line="57" column="40" selection-start="1537" selection-end="1537" vertical-scroll-proportion="0.523614">
           <folding />
         </state>
       </provider>
