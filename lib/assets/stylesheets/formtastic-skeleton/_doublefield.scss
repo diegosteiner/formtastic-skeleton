@@ -46,7 +46,7 @@
         ol>li.input {
             border: none;
             display: inline-block;
-            width: ($inputWidth / 2) - $gridMargin !important;
+            width: ($inputWidth / 2) - $inputPadding !important;
             margin: 0;
             margin-right: $gridMargin;
             
