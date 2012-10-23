@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7633a606-04bf-4f45-b81d-e5aa5b976fb5" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_all.scss" afterPath="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_all.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_doublefield.scss" afterPath="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_doublefield.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_form.scss" afterPath="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_form.scss" />
     </list>
     <ignored path="formtastic-skeleton.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,10 +31,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_doublefield.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="_doublefield.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_doublefield.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="34" selection-start="1129" selection-end="1129" vertical-scroll-proportion="0.0">
+            <state line="47" column="45" selection-start="978" selection-end="989" vertical-scroll-proportion="0.21593292">
               <folding />
             </state>
           </provider>
@@ -60,10 +58,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_responsive.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_responsive.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_responsive.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="71" column="41" selection-start="1767" selection-end="1767" vertical-scroll-proportion="0.035639413">
+            <state line="71" column="41" selection-start="1767" selection-end="1767" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -100,9 +98,9 @@
         <option value="$PROJECT_DIR$/../../../renuo/studentbooks/rails2_full.patch" />
         <option value="$PROJECT_DIR$/../../../renuo/studentbooks3/rails2.patch" />
         <option value="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_responsive.scss" />
-        <option value="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_doublefield.scss" />
         <option value="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_form.scss" />
         <option value="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_all.scss" />
+        <option value="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_doublefield.scss" />
       </list>
     </option>
   </component>
@@ -312,13 +310,18 @@
       <created>1350999986825</created>
       <updated>1350999986825</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="fix width">
+      <created>1351000485771</created>
+      <updated>1351000485771</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="26" width="1590" height="844" extended-state="0" />
     <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -333,7 +336,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31619537" sideWeight="0.497426" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -460,13 +462,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_doublefield.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="34" selection-start="1129" selection-end="1129" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_form.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="22" selection-start="66" selection-end="66" vertical-scroll-proportion="0.0">
@@ -483,7 +478,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_responsive.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="41" selection-start="1767" selection-end="1767" vertical-scroll-proportion="0.035639413">
+        <state line="71" column="41" selection-start="1767" selection-end="1767" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_doublefield.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="45" selection-start="978" selection-end="989" vertical-scroll-proportion="0.21593292">
           <folding />
         </state>
       </provider>

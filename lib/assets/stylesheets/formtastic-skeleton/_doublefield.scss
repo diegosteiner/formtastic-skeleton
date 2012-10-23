@@ -45,7 +45,7 @@
     ol>li.input {
       border: none;
       display: inline-block;
-      width: ($inputWidth / 2) - $gridMargin !important;
+      width: ($inputWidth - $gridMargin) / 2 !important;
       margin: 0;
       margin-left: $gridMargin;
 
@@ -58,7 +58,7 @@
       }
 
       &>input, &>textarea, &>select {
-        width: ($inputWidth / 2) - $gridMargin - 2 * $inputPadding - 2 !important;
+        width: ($inputWidth - $gridMargin) / 2 - 2 * $inputPadding - 2 !important;
       }
 
       &>button {
