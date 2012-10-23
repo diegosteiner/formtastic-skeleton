@@ -34,7 +34,7 @@
       <file leaf-file-name="_doublefield.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_doublefield.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="49" selection-start="982" selection-end="982" vertical-scroll-proportion="0.21593292">
+            <state line="60" column="72" selection-start="1278" selection-end="1278" vertical-scroll-proportion="0.6792453">
               <folding />
             </state>
           </provider>
@@ -318,7 +318,11 @@
       <created>1351000661533</created>
       <updated>1351000661533</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="fix width">
+      <created>1351000823415</created>
+      <updated>1351000823415</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -489,7 +493,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_doublefield.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="49" selection-start="982" selection-end="982" vertical-scroll-proportion="0.21593292">
+        <state line="60" column="72" selection-start="1278" selection-end="1278" vertical-scroll-proportion="0.6792453">
           <folding />
         </state>
       </provider>

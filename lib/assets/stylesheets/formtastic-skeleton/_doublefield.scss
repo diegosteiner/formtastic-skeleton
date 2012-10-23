@@ -58,7 +58,7 @@
       }
 
       &>input, &>textarea, &>select {
-        width: ($inputWidth - $gridMargin) / 2 - 2 * $inputPadding - 2 !important;
+        width: ($inputWidth - $gridMargin) / 2 - (2 * $inputPadding) - 4 !important;
       }
 
       &>button {
