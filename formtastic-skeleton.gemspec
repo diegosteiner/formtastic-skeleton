@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = "formtastic-skeleton"
-  s.version = "0.1"
+  s.version = "0.2"
   s.authors = ["Diego Steiner"]
   s.email = "filou.linux@gmail.com"
   s.summary = "responsive scss for formtastic"

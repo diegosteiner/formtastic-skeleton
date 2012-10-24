@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    formtastic-skeleton (0.1)
+    formtastic-skeleton (0.2)
       formtastic (~> 2.2)
       railties (>= 3.1.0)
 
@@ -24,7 +24,7 @@ GEM
     activesupport (3.2.8)
       i18n (~> 0.6)
       multi_json (~> 1.0)
-    builder (3.0.3)
+    builder (3.0.4)
     erubis (2.7.0)
     formtastic (2.2.1)
       actionpack (>= 3.0)
