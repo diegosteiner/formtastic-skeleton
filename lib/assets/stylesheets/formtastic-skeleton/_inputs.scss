@@ -21,13 +21,6 @@ fieldset.inputs {
             @import "inputs/file";
             @import "inputs/datetime";
             @import "inputs/content";
-            
-            /*      .input-mini    { width: 1   * $gridColumnWidth !important; }
-            .input-small   { width: 1.5 * $gridColumnWidth !important; }
-            .input-medium  { width: 2   * $gridColumnWidth !important; }
-            .input-large   { width: 3.5 * $gridColumnWidth !important; }
-            .input-xlarge  { width: 5   * $gridColumnWidth !important; }
-            .input-xxlarge { width: 9   * $gridColumnWidth !important; }*/
         }
     }
 }
