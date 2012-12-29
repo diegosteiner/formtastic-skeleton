@@ -2,7 +2,7 @@ $gridColumnWidth: 40px;
 $gridMargin: 20px;
 $gridColumns: 16;
 $labelColumns: 5;
-$inputColumns: 7;
+$inputColumns: 11;
 //$formWidth: $gridColumns * $gridColumnWidth + ($gridColumns - 2) * $gridMargin !default;
 $labelWidth: $labelColumns * $gridColumnWidth + ($labelColumns - 1) * $gridMargin !default;
 $inputWidth: $inputColumns * $gridColumnWidth + ($inputColumns - 1) * $gridMargin !default;
