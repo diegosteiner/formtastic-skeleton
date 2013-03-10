@@ -1,7 +1,8 @@
 &.input {
     position: relative;
     
-    button, span.ui-button {
+    button, span.ui-button
+    button:hover, span.ui-button:hover  {
         
         height: $miniButtonDimension;
         width: $miniButtonDimension;
@@ -11,5 +12,9 @@
         bottom: 5px;
         font-size: 9px;
         margin: 0;
+
+        background: transparent;
+        border: none;
+        box-shadow: none;
     }
 }
