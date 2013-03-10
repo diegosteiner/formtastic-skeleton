@@ -9,6 +9,7 @@ $inputWidth: $inputColumns * $gridColumnWidth + ($inputColumns - 1) * $gridMargi
 $baseFontSize: 1em;
 $baseLineHeight: 1.5em;
 $inputBorderColor: #BBB;
+$inputBackgroundColor: #FFF;
 $inputPadding: 4px;
 $errorText: #EE2222;
 $textColor: #222;

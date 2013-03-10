@@ -2,15 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7633a606-04bf-4f45-b81d-e5aa5b976fb5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/inputs/_helper_buttons.scss" afterPath="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/inputs/_helper_buttons.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_all.scss" afterPath="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_all.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_mixins.scss" afterPath="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/inputs/_radio.scss" afterPath="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/inputs/_radio.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/inputs/_select.scss" afterPath="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/inputs/_select.scss" />
     </list>
     <ignored path="formtastic-skeleton.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="7633a606-04bf-4f45-b81d-e5aa5b976fb5" time="1362945081569" ignored="false" />
-    <file path="$PROJECT_DIR$/../pfadiheime.ch.git/app/assets/stylesheets/layouts/default/jquery-ui.scss" changelist="7633a606-04bf-4f45-b81d-e5aa5b976fb5" time="1362946443191" ignored="false" />
+    <file path="/Dummy.txt" changelist="7633a606-04bf-4f45-b81d-e5aa5b976fb5" time="1362947842894" ignored="false" />
+    <file path="$PROJECT_DIR$/../pfadiheime.ch.git/app/assets/stylesheets/layouts/default/jquery-ui.scss" changelist="7633a606-04bf-4f45-b81d-e5aa5b976fb5" time="1362953002251" ignored="false" />
     <file path="$PROJECT_DIR$/../pfadiheime.ch.git/app/assets/stylesheets/layouts/default/header.scss" changelist="7633a606-04bf-4f45-b81d-e5aa5b976fb5" time="1362946203506" ignored="false" />
     <file path="$PROJECT_DIR$/../pfadiheime.ch.git/app/views/layouts/application.html.erb" changelist="7633a606-04bf-4f45-b81d-e5aa5b976fb5" time="1362946219935" ignored="false" />
+    <file path="$PROJECT_DIR$/../pfadiheime.ch.git/app/assets/stylesheets/layouts/default/colors.scss" changelist="7633a606-04bf-4f45-b81d-e5aa5b976fb5" time="1362947333811" ignored="false" />
+    <file path="/jquery-ui.scss" changelist="7633a606-04bf-4f45-b81d-e5aa5b976fb5" time="1362947768178" ignored="false" />
+    <file path="$PROJECT_DIR$/../pfadiheime.ch.git/app/views/cottages/show.html.erb" changelist="7633a606-04bf-4f45-b81d-e5aa5b976fb5" time="1362948833609" ignored="false" />
+    <file path="$PROJECT_DIR$/../pfadiheime.ch.git/app/views/cottages/show/_general.html.erb" changelist="7633a606-04bf-4f45-b81d-e5aa5b976fb5" time="1362951172167" ignored="false" />
+    <file path="$PROJECT_DIR$/../pfadiheime.ch.git/app/views/cottages/show/_location.html.erb" changelist="7633a606-04bf-4f45-b81d-e5aa5b976fb5" time="1362949932388" ignored="false" />
+    <file path="$PROJECT_DIR$/../pfadiheime.ch.git/app/views/cottages/show/_reservation.html.erb" changelist="7633a606-04bf-4f45-b81d-e5aa5b976fb5" time="1362950386529" ignored="false" />
+    <file path="/show.html.erb" changelist="7633a606-04bf-4f45-b81d-e5aa5b976fb5" time="1362948273880" ignored="false" />
+    <file path="$PROJECT_DIR$/../pfadiheime.ch.git/app/assets/stylesheets/views/cottages/show.scss" changelist="7633a606-04bf-4f45-b81d-e5aa5b976fb5" time="1362948335722" ignored="false" />
+    <file path="$PROJECT_DIR$/../pfadiheime.ch.git/app/assets/stylesheets/layouts/default/typography.scss" changelist="7633a606-04bf-4f45-b81d-e5aa5b976fb5" time="1362950320302" ignored="false" />
+    <file path="$PROJECT_DIR$/../pfadiheime.ch.git/app/assets/stylesheets/layouts/default/content.scss" changelist="7633a606-04bf-4f45-b81d-e5aa5b976fb5" time="1362950982420" ignored="false" />
+    <file path="$PROJECT_DIR$/../pfadiheime.ch.git/app/assets/stylesheets/layouts/default/containers.scss" changelist="7633a606-04bf-4f45-b81d-e5aa5b976fb5" time="1362952310137" ignored="false" />
+    <file path="/containers.scss" changelist="7633a606-04bf-4f45-b81d-e5aa5b976fb5" time="1362951236438" ignored="false" />
+    <file path="$PROJECT_DIR$/../pfadiheime.ch.git/app/assets/javascripts/forms/datepicker.js.coffee" changelist="7633a606-04bf-4f45-b81d-e5aa5b976fb5" time="1362952768832" ignored="false" />
+    <file path="$PROJECT_DIR$/../pfadiheime.ch.git/app/assets/javascripts/forms/flags.js.coffee" changelist="7633a606-04bf-4f45-b81d-e5aa5b976fb5" time="1362952918089" ignored="false" />
+    <file path="/_select.scss" changelist="7633a606-04bf-4f45-b81d-e5aa5b976fb5" time="1362953273682" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,15 +44,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="formtastic-skeleton.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/formtastic-skeleton.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="_doublefield.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_doublefield.scss">
           <provider selected="true" editor-type-id="text-editor">
@@ -45,37 +53,46 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_form.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_form.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="1" selection-start="66" selection-end="66" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="_all.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_all.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="17" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0">
+            <state line="11" column="21" selection-start="442" selection-end="463" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_helper_buttons.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_helper_buttons.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/inputs/_helper_buttons.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="18" selection-start="310" selection-end="310" vertical-scroll-proportion="0.45882353">
+            <state line="13" column="18" selection-start="310" selection-end="310" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_mixins.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="_radio.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/inputs/_radio.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="45" column="28" selection-start="794" selection-end="794" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_select.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/inputs/_select.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="38" selection-start="260" selection-end="260" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_mixins.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_mixins.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="44" selection-start="191" selection-end="215" vertical-scroll-proportion="0.0">
+            <state line="19" column="36" selection-start="432" selection-end="432" vertical-scroll-proportion="0.67058825">
               <folding />
             </state>
           </provider>
@@ -137,9 +154,7 @@
       <list>
         <option value="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_labels.scss" />
         <option value="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/inputs/_datetime.scss" />
-        <option value="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/inputs/_select.scss" />
         <option value="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/inputs/_help_buttons.scss" />
-        <option value="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_mixins.scss" />
         <option value="$USER_HOME$/renuo/studentbooks/rails2_full.patch" />
         <option value="$USER_HOME$/renuo/studentbooks3/rails2.patch" />
         <option value="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_responsive.scss" />
@@ -148,8 +163,11 @@
         <option value="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_fieldset.scss" />
         <option value="$PROJECT_DIR$/formtastic-skeleton.gemspec" />
         <option value="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_inputs.scss" />
-        <option value="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_all.scss" />
         <option value="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/inputs/_helper_buttons.scss" />
+        <option value="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/inputs/_radio.scss" />
+        <option value="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_all.scss" />
+        <option value="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/inputs/_select.scss" />
+        <option value="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_mixins.scss" />
       </list>
     </option>
   </component>
@@ -496,21 +514,11 @@
         <state line="57" column="45" selection-start="1190" selection-end="1190" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/inputs/_select.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="22" selection-start="95" selection-end="95" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/formtastic-skeleton.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/inputs/_radio.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_form.scss">
@@ -555,6 +563,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/inputs/_helper_buttons.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="18" selection-start="310" selection-end="310" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/inputs/_radio.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="28" selection-start="794" selection-end="794" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_all.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="21" selection-start="442" selection-end="463" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/inputs/_select.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="38" selection-start="260" selection-end="260" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/inputs/_stringish.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -562,23 +598,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_all.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="17" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_mixins.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="44" selection-start="191" selection-end="215" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/inputs/_helper_buttons.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="18" selection-start="310" selection-end="310" vertical-scroll-proportion="0.45882353">
+        <state line="19" column="36" selection-start="432" selection-end="432" vertical-scroll-proportion="0.67058825">
           <folding />
         </state>
       </provider>
