@@ -1,6 +1,6 @@
 &.text {
   textarea {
     @include text-input();
-    height: auto;
+    height: 4.25em;
   }
 }
