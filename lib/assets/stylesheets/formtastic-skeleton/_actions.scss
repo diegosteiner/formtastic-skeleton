@@ -1,12 +1,6 @@
 fieldset.actions {
-    padding: ($baseLineHeight) 0 $baseLineHeight;
-    padding-left: 1em;
-    padding-right: 1em;
-    
     margin-top: $baseLineHeight;
     margin-bottom: $baseLineHeight;
-    border-top: 1px solid #ddd;
-    background-color: $actionsBackgroundColor;
     @include clearfix();
     
     > legend {
@@ -15,7 +9,7 @@ fieldset.actions {
     
     ol {
         margin: 0;
-        margin-left: $labelWidth + 20px;
+        margin-left: $labelWidth - 75px + 20px;
         padding: 0;
         list-style: none;
         font-size: 0; // collapse spaces and newline-symbols
