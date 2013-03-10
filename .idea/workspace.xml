@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7633a606-04bf-4f45-b81d-e5aa5b976fb5" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/inputs/_help_buttons.scss" afterPath="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/inputs/_helper_buttons.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_inputs.scss" afterPath="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/_inputs.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/formtastic-skeleton.iml" afterPath="$PROJECT_DIR$/.idea/formtastic-skeleton.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/inputs/_helper_buttons.scss" afterPath="$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/inputs/_helper_buttons.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="formtastic-skeleton.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="7633a606-04bf-4f45-b81d-e5aa5b976fb5" time="1362945081569" ignored="false" />
+    <file path="$PROJECT_DIR$/../pfadiheime.ch.git/app/assets/stylesheets/layouts/default/jquery-ui.scss" changelist="7633a606-04bf-4f45-b81d-e5aa5b976fb5" time="1362946443191" ignored="false" />
+    <file path="$PROJECT_DIR$/../pfadiheime.ch.git/app/assets/stylesheets/layouts/default/header.scss" changelist="7633a606-04bf-4f45-b81d-e5aa5b976fb5" time="1362946203506" ignored="false" />
+    <file path="$PROJECT_DIR$/../pfadiheime.ch.git/app/views/layouts/application.html.erb" changelist="7633a606-04bf-4f45-b81d-e5aa5b976fb5" time="1362946219935" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +66,7 @@
       <file leaf-file-name="_helper_buttons.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/inputs/_helper_buttons.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="38" selection-start="104" selection-end="104" vertical-scroll-proportion="0.14117648">
+            <state line="13" column="18" selection-start="310" selection-end="310" vertical-scroll-proportion="0.45882353">
               <folding />
             </state>
           </provider>
@@ -577,7 +578,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/assets/stylesheets/formtastic-skeleton/inputs/_helper_buttons.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="38" selection-start="104" selection-end="104" vertical-scroll-proportion="0.14117648">
+        <state line="13" column="18" selection-start="310" selection-end="310" vertical-scroll-proportion="0.45882353">
           <folding />
         </state>
       </provider>
