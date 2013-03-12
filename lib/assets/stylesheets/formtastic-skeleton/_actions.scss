@@ -9,7 +9,7 @@ fieldset.actions {
     
     ol {
         margin: 0;
-        margin-left: $labelWidth;
+        margin-left: $labelWidth + 20px;
         padding: 0;
         list-style: none;
         font-size: 0; // collapse spaces and newline-symbols

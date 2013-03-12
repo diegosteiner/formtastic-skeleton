@@ -40,10 +40,13 @@
       > li.choice {
         padding: 4px 0;
         line-height: $baseLineHeight;
+        display: inline-block;
+        width: 30%;
+        min-width: 160px;
 
         > label {
           @include label-common();
-            font-weight: normal;
+          font-weight: normal;
         }
       }
     }
